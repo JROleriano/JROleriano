@@ -1,6 +1,5 @@
 ## BEM VINDO AO MEU GITHUB
 
-![Snake animation](https://github.com/JROleriano/JROleriano/blob/output/github-contribution-grid-snake.svg)
 
 <p>Meu nome é José Roberto, sou Mestre em Música pela Universidade Estadual de Maringá-UEM, MBA em Gestão de Projetos em TI pela Faculdade UNOPAR e Bacharel em Administração pela Faculda Adventista Paranaense - FAP. Atualmento sou aluno do curso Superior de Tecnologia em Desenvolvimento Back-end na Faculdade UNOPAR.
 </p>
