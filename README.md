@@ -1,20 +1,21 @@
 ## BEM VINDO AO MEU GITHUB
 
-
+![Snake animation](https://github.com/JROleriano/JROleriano/blob/output/github-contribution-grid-snake.svg)
 
 <p>Meu nome é José Roberto, sou Mestre em Música pela Universidade Estadual de Maringá-UEM, MBA em Gestão de Projetos em TI pela Faculdade UNOPAR e Bacharel em Administração pela Faculda Adventista Paranaense - FAP. Atualmento sou aluno do curso Superior de Tecnologia em Desenvolvimento Back-end na Faculdade UNOPAR.
 </p>
 
 ## Estou aprendendo:
-
+<div text-align>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
+</div>
+
 
 ## Contatos:
-
 <div>
 <a href="https://www.youtube.com/@joser.oleriano2148/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/jose_oleriano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,7 +24,7 @@
 
 ## Estatísticas
 
-<div>
+<div display: flex;>
 <a href="https://github.com/JROleriano">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JROleriano&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JROleriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
